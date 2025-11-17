@@ -1,5 +1,12 @@
 ## ✨ Introduction
 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/) 
+
+
+
 Build a powerful **AI-driven Resume Analyzer** using **React**, **React Router**, and **Puter.js**. Implement seamless client-side authentication, upload and manage resumes effortlessly, and intelligently match candidates to job listings using AI-based evaluations. Deliver tailored ATS scores, personalized feedback, and a clean, reusable UI that enhances both usability and development flow.
 
 ---
